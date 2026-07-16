@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saanvi-maram/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saanvi-maram/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saanvi-maram/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
