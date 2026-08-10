@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/saanvi-maram/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/saanvi-maram/leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saanvi-maram/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saanvi-maram/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saanvi-maram/leetcode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saanvi-maram/leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
