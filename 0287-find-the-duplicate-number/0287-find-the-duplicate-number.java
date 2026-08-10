@@ -1,0 +1,17 @@
+class Solution {
+    public int findDuplicate(int[] nums) {
+        HashMap<Integer,Integer> hm=new HashMap<>();
+        for(int i:nums)
+        {
+            hm.put(i,hm.getOrDefault(i,0)+1);
+
+        }
+        int a=1;
+        for(var i: hm.entrySet())
+        {
+               if(i.getValue()>=2)
+               a=i.getKey();
+        }
+        return a;
+    }
+}
