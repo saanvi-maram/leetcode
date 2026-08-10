@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/saanvi-maram/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/saanvi-maram/leetcode/tree/master/0189-rotate-array) |
+| [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,8 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saanvi-maram/leetcode/tree/master/0189-rotate-array) |
+| [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
+| [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
