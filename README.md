@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saanvi-maram/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saanvi-maram/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/saanvi-maram/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/saanvi-maram/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/saanvi-maram/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/saanvi-maram/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/saanvi-maram/leetcode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saanvi-maram/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saanvi-maram/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
