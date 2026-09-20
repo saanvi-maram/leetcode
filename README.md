@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saanvi-maram/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/saanvi-maram/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saanvi-maram/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/saanvi-maram/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/saanvi-maram/leetcode/tree/master/0042-trapping-rain-water) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saanvi-maram/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saanvi-maram/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saanvi-maram/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saanvi-maram/leetcode/tree/master/0125-valid-palindrome) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saanvi-maram/leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/saanvi-maram/leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
