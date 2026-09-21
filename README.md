@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saanvi-maram/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saanvi-maram/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saanvi-maram/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saanvi-maram/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saanvi-maram/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/saanvi-maram/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saanvi-maram/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saanvi-maram/leetcode/tree/master/0036-valid-sudoku) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saanvi-maram/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
